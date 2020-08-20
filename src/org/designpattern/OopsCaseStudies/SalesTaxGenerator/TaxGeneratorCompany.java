@@ -49,6 +49,7 @@ public class TaxGeneratorCompany{
 			System.out.println(item);
 		});
 
+			
 		BasketTotalCostCalculator basketCalculator = new BasketTotalCostCalculator();
 		System.out.println(basketCalculator.calculateTotalCostOfBucket(basket));
 		basket.getItemsList().forEach(item -> {

@@ -1,4 +1,4 @@
-package org.designpattern.creational.builderpattern;
+package org.designpattern.creational.prototype;
 
 // Proxy design pattern includes creating copy of partially or completely initialized object 
 // and then make changes in to the copied version to make different object
